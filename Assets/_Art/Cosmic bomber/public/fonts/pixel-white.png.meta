@@ -1,0 +1,7280 @@
+fileFormatVersion: 2
+guid: 58d574a1cada5f74faebbf97f3c0fced
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1081998594050715016
+    second: pixel-white_0
+  - first:
+      213: -3617763513996974445
+    second: pixel-white_1
+  - first:
+      213: 3060867270645134598
+    second: pixel-white_2
+  - first:
+      213: 1060295480363022688
+    second: pixel-white_3
+  - first:
+      213: -4548329586551133874
+    second: pixel-white_4
+  - first:
+      213: 1709961253066653827
+    second: pixel-white_5
+  - first:
+      213: -7688452946843499225
+    second: pixel-white_6
+  - first:
+      213: -8506272251281370875
+    second: pixel-white_7
+  - first:
+      213: -4583053454124832173
+    second: pixel-white_8
+  - first:
+      213: -4840860845775165783
+    second: pixel-white_9
+  - first:
+      213: 3824562367111219940
+    second: pixel-white_10
+  - first:
+      213: 47427421128644669
+    second: pixel-white_11
+  - first:
+      213: -1376031129895320953
+    second: pixel-white_12
+  - first:
+      213: -9102609015541808597
+    second: pixel-white_13
+  - first:
+      213: -8451192998284452033
+    second: pixel-white_14
+  - first:
+      213: 8064720443088731520
+    second: pixel-white_15
+  - first:
+      213: 1865028670667971849
+    second: pixel-white_16
+  - first:
+      213: -7538129741060953501
+    second: pixel-white_17
+  - first:
+      213: 8583224395059462898
+    second: pixel-white_18
+  - first:
+      213: 1318679781996455659
+    second: pixel-white_19
+  - first:
+      213: -166784173123067997
+    second: pixel-white_20
+  - first:
+      213: -4461082290109879087
+    second: pixel-white_21
+  - first:
+      213: 2648062905681323867
+    second: pixel-white_22
+  - first:
+      213: -1744546318399775395
+    second: pixel-white_23
+  - first:
+      213: 1001979417311603762
+    second: pixel-white_24
+  - first:
+      213: -2907885474274912922
+    second: pixel-white_25
+  - first:
+      213: 661328500039310220
+    second: pixel-white_26
+  - first:
+      213: -6573336940249068302
+    second: pixel-white_27
+  - first:
+      213: -3568442872328882047
+    second: pixel-white_28
+  - first:
+      213: 3989513900263218262
+    second: pixel-white_29
+  - first:
+      213: 3691616438434675458
+    second: pixel-white_30
+  - first:
+      213: -1687440899856983042
+    second: pixel-white_31
+  - first:
+      213: -7076904464636741861
+    second: pixel-white_32
+  - first:
+      213: -7355535182972992282
+    second: pixel-white_33
+  - first:
+      213: 2798706810925209022
+    second: pixel-white_34
+  - first:
+      213: 4564966025520750466
+    second: pixel-white_35
+  - first:
+      213: 251894039319955267
+    second: pixel-white_36
+  - first:
+      213: 4957224553628105047
+    second: pixel-white_37
+  - first:
+      213: -3225913608276944520
+    second: pixel-white_38
+  - first:
+      213: 816669150253874001
+    second: pixel-white_39
+  - first:
+      213: -6663594072197556803
+    second: pixel-white_40
+  - first:
+      213: -5196031424653620044
+    second: pixel-white_41
+  - first:
+      213: -7657909856883262675
+    second: pixel-white_42
+  - first:
+      213: -5228691987680818380
+    second: pixel-white_43
+  - first:
+      213: 4267349331028282942
+    second: pixel-white_44
+  - first:
+      213: -7886110908518419714
+    second: pixel-white_45
+  - first:
+      213: 8225218065879828308
+    second: pixel-white_46
+  - first:
+      213: 790248415973141185
+    second: pixel-white_47
+  - first:
+      213: -2364927063038869943
+    second: pixel-white_48
+  - first:
+      213: 4864112089676083041
+    second: pixel-white_49
+  - first:
+      213: 1918002134828269371
+    second: pixel-white_50
+  - first:
+      213: -6263847077521725516
+    second: pixel-white_51
+  - first:
+      213: 8700321951969187344
+    second: pixel-white_52
+  - first:
+      213: 6298927448936238337
+    second: pixel-white_53
+  - first:
+      213: -7851713173682048587
+    second: pixel-white_54
+  - first:
+      213: -5551165398585263386
+    second: pixel-white_55
+  - first:
+      213: -5286876919794076845
+    second: pixel-white_56
+  - first:
+      213: 5214993447841533804
+    second: pixel-white_57
+  - first:
+      213: 7831583287329441880
+    second: pixel-white_58
+  - first:
+      213: -1378405441366306088
+    second: pixel-white_59
+  - first:
+      213: 4918200583883914708
+    second: pixel-white_60
+  - first:
+      213: -5092786935153790907
+    second: pixel-white_61
+  - first:
+      213: -2983119666889366989
+    second: pixel-white_62
+  - first:
+      213: -2526958483353273860
+    second: pixel-white_63
+  - first:
+      213: 5976634142912754602
+    second: pixel-white_64
+  - first:
+      213: 6561783611908538447
+    second: pixel-white_65
+  - first:
+      213: -7919074914851841336
+    second: pixel-white_66
+  - first:
+      213: -2253757991891880285
+    second: pixel-white_67
+  - first:
+      213: -48075522900673457
+    second: pixel-white_68
+  - first:
+      213: 8458987064604779474
+    second: pixel-white_69
+  - first:
+      213: 2504307326783391976
+    second: pixel-white_70
+  - first:
+      213: 2088449120874166281
+    second: pixel-white_71
+  - first:
+      213: -5888854054039478067
+    second: pixel-white_72
+  - first:
+      213: 214383342614255520
+    second: pixel-white_73
+  - first:
+      213: 3601026946366406123
+    second: pixel-white_74
+  - first:
+      213: -2480028634370006478
+    second: pixel-white_75
+  - first:
+      213: 6209303461014170965
+    second: pixel-white_76
+  - first:
+      213: 2205235409093804184
+    second: pixel-white_77
+  - first:
+      213: 5233931632877345146
+    second: pixel-white_78
+  - first:
+      213: 4626359719997434066
+    second: pixel-white_79
+  - first:
+      213: -76720563830515007
+    second: pixel-white_80
+  - first:
+      213: 3016802600341777466
+    second: pixel-white_81
+  - first:
+      213: -1052762586029996537
+    second: pixel-white_82
+  - first:
+      213: -4193626989801970446
+    second: pixel-white_83
+  - first:
+      213: -9142337018450107905
+    second: pixel-white_84
+  - first:
+      213: 1929148177202541737
+    second: pixel-white_85
+  - first:
+      213: 5267588810638020276
+    second: pixel-white_86
+  - first:
+      213: -4761393444204764382
+    second: pixel-white_87
+  - first:
+      213: 3181373754595763865
+    second: pixel-white_88
+  - first:
+      213: -7114816149655193381
+    second: pixel-white_89
+  - first:
+      213: -5416380466014182888
+    second: pixel-white_90
+  - first:
+      213: -1573098100326941047
+    second: pixel-white_91
+  - first:
+      213: 4639997656541317
+    second: pixel-white_92
+  - first:
+      213: 6785527116072219370
+    second: pixel-white_93
+  - first:
+      213: -8731318770754967205
+    second: pixel-white_94
+  - first:
+      213: -3437243701472336485
+    second: pixel-white_95
+  - first:
+      213: -6766723122895532430
+    second: pixel-white_96
+  - first:
+      213: 2609177396143187630
+    second: pixel-white_97
+  - first:
+      213: -8679095046357981221
+    second: pixel-white_98
+  - first:
+      213: 2762775733321766430
+    second: pixel-white_99
+  - first:
+      213: -6752969902600472174
+    second: pixel-white_100
+  - first:
+      213: -4335396701104886363
+    second: pixel-white_101
+  - first:
+      213: -4102318149184553151
+    second: pixel-white_102
+  - first:
+      213: 3293375755596778808
+    second: pixel-white_103
+  - first:
+      213: 5640196840605346872
+    second: pixel-white_104
+  - first:
+      213: -636619124417854379
+    second: pixel-white_105
+  - first:
+      213: 5143863720211149707
+    second: pixel-white_106
+  - first:
+      213: -1102881307712588572
+    second: pixel-white_107
+  - first:
+      213: 117923129969915001
+    second: pixel-white_108
+  - first:
+      213: 5617743362401229227
+    second: pixel-white_109
+  - first:
+      213: -1163035962862113058
+    second: pixel-white_110
+  - first:
+      213: -2133238931009358104
+    second: pixel-white_111
+  - first:
+      213: -8046376918383454326
+    second: pixel-white_112
+  - first:
+      213: -4845401946348356750
+    second: pixel-white_113
+  - first:
+      213: -2366486697776632087
+    second: pixel-white_114
+  - first:
+      213: 3695887215411456359
+    second: pixel-white_115
+  - first:
+      213: 2286501995826928394
+    second: pixel-white_116
+  - first:
+      213: -3197699460453091646
+    second: pixel-white_117
+  - first:
+      213: 3894781880074958827
+    second: pixel-white_118
+  - first:
+      213: -5581695220027304359
+    second: pixel-white_119
+  - first:
+      213: -6383598575344283776
+    second: pixel-white_120
+  - first:
+      213: 4547214645168307335
+    second: pixel-white_121
+  - first:
+      213: 1535933684378871026
+    second: pixel-white_122
+  - first:
+      213: -8946226406447420829
+    second: pixel-white_123
+  - first:
+      213: -435482764703683388
+    second: pixel-white_124
+  - first:
+      213: -8753545889046560121
+    second: pixel-white_125
+  - first:
+      213: -2735773833015360557
+    second: pixel-white_126
+  - first:
+      213: -4291877051999842748
+    second: pixel-white_127
+  - first:
+      213: 8093780427993227687
+    second: pixel-white_128
+  - first:
+      213: -6931182450320392096
+    second: pixel-white_129
+  - first:
+      213: -6918759720637041002
+    second: pixel-white_130
+  - first:
+      213: 8817840635176992737
+    second: pixel-white_131
+  - first:
+      213: -6525782032635331505
+    second: pixel-white_132
+  - first:
+      213: -4086781069980014282
+    second: pixel-white_133
+  - first:
+      213: -4279726141302722076
+    second: pixel-white_134
+  - first:
+      213: 8642183406501573408
+    second: pixel-white_135
+  - first:
+      213: -733842506727407873
+    second: pixel-white_136
+  - first:
+      213: 8878171880274950562
+    second: pixel-white_137
+  - first:
+      213: 6322845300866943138
+    second: pixel-white_138
+  - first:
+      213: -7940261748152302199
+    second: pixel-white_139
+  - first:
+      213: -4933734171037590327
+    second: pixel-white_140
+  - first:
+      213: 4367531321101148713
+    second: pixel-white_141
+  - first:
+      213: -4305406811156916681
+    second: pixel-white_142
+  - first:
+      213: -5702201424463531249
+    second: pixel-white_143
+  - first:
+      213: -346782877584643618
+    second: pixel-white_144
+  - first:
+      213: 7730811176740377514
+    second: pixel-white_145
+  - first:
+      213: 5627983183435162766
+    second: pixel-white_146
+  - first:
+      213: 5019857271808683095
+    second: pixel-white_147
+  - first:
+      213: -9205706340781305616
+    second: pixel-white_148
+  - first:
+      213: -617313403979447400
+    second: pixel-white_149
+  - first:
+      213: -7084048003465745474
+    second: pixel-white_150
+  - first:
+      213: -3223602713799555916
+    second: pixel-white_151
+  - first:
+      213: 4316822322529486669
+    second: pixel-white_152
+  - first:
+      213: 52678769574189363
+    second: pixel-white_153
+  - first:
+      213: -6883619648454686658
+    second: pixel-white_154
+  - first:
+      213: -1907714021786532177
+    second: pixel-white_155
+  - first:
+      213: -5770650501152882030
+    second: pixel-white_156
+  - first:
+      213: -490862334389282230
+    second: pixel-white_157
+  - first:
+      213: -6809000433398867322
+    second: pixel-white_158
+  - first:
+      213: 4412498365075499274
+    second: pixel-white_159
+  - first:
+      213: -3853335231849233598
+    second: pixel-white_160
+  - first:
+      213: 4460453290882535669
+    second: pixel-white_161
+  - first:
+      213: 8258625811912493427
+    second: pixel-white_162
+  - first:
+      213: -176035120649361801
+    second: pixel-white_163
+  - first:
+      213: 4901006993582929671
+    second: pixel-white_164
+  - first:
+      213: -4625843584988125005
+    second: pixel-white_165
+  - first:
+      213: 2472606923241304511
+    second: pixel-white_166
+  - first:
+      213: -6802530216459891976
+    second: pixel-white_167
+  - first:
+      213: 2864094415318573960
+    second: pixel-white_168
+  - first:
+      213: 3517949320372477988
+    second: pixel-white_169
+  - first:
+      213: 4747483149029428564
+    second: pixel-white_170
+  - first:
+      213: 4919212798978868028
+    second: pixel-white_171
+  - first:
+      213: 4023918511830931175
+    second: pixel-white_172
+  - first:
+      213: -9170320714101230426
+    second: pixel-white_173
+  - first:
+      213: 8311060655090152558
+    second: pixel-white_174
+  - first:
+      213: 3148137329401377471
+    second: pixel-white_175
+  - first:
+      213: -5436590705145012923
+    second: pixel-white_176
+  - first:
+      213: -7755553892092411773
+    second: pixel-white_177
+  - first:
+      213: -3847034575515618672
+    second: pixel-white_178
+  - first:
+      213: -5133885204023068002
+    second: pixel-white_179
+  - first:
+      213: 4719605418760508919
+    second: pixel-white_180
+  - first:
+      213: 2892742242608893677
+    second: pixel-white_181
+  - first:
+      213: -8987886184413401239
+    second: pixel-white_182
+  - first:
+      213: 7671687982648745178
+    second: pixel-white_183
+  - first:
+      213: 270445341506082768
+    second: pixel-white_184
+  - first:
+      213: 5701155637418100694
+    second: pixel-white_185
+  - first:
+      213: -9213200898288463055
+    second: pixel-white_186
+  - first:
+      213: 5584546760746745039
+    second: pixel-white_187
+  - first:
+      213: 6410254136035890343
+    second: pixel-white_188
+  - first:
+      213: -7416147342086440279
+    second: pixel-white_189
+  - first:
+      213: -4357835605398273706
+    second: pixel-white_190
+  - first:
+      213: 4853032472139669007
+    second: pixel-white_191
+  - first:
+      213: -7113895888401762096
+    second: pixel-white_192
+  - first:
+      213: 8671376943932297145
+    second: pixel-white_193
+  - first:
+      213: 6235203447973153711
+    second: pixel-white_194
+  - first:
+      213: 7544636669688544093
+    second: pixel-white_195
+  - first:
+      213: -2083635646113966265
+    second: pixel-white_196
+  - first:
+      213: 5016111987206476623
+    second: pixel-white_197
+  - first:
+      213: -6928360792765441226
+    second: pixel-white_198
+  - first:
+      213: 4570288560854078592
+    second: pixel-white_199
+  - first:
+      213: 6528523967549343402
+    second: pixel-white_200
+  - first:
+      213: 9114631640375120142
+    second: pixel-white_201
+  - first:
+      213: 1342933436681276556
+    second: pixel-white_202
+  - first:
+      213: -8239440744792605165
+    second: pixel-white_203
+  - first:
+      213: 6781747340383598314
+    second: pixel-white_204
+  - first:
+      213: 4605824245389679367
+    second: pixel-white_205
+  - first:
+      213: 1843955853501603974
+    second: pixel-white_206
+  - first:
+      213: 4309069395988399177
+    second: pixel-white_207
+  - first:
+      213: -6331356938488700310
+    second: pixel-white_208
+  - first:
+      213: 2522668937586293245
+    second: pixel-white_209
+  - first:
+      213: -5437067721711382076
+    second: pixel-white_210
+  - first:
+      213: -5539178953501579536
+    second: pixel-white_211
+  - first:
+      213: 7062703967208477718
+    second: pixel-white_212
+  - first:
+      213: 2991347862789368760
+    second: pixel-white_213
+  - first:
+      213: 8467779027022432738
+    second: pixel-white_214
+  - first:
+      213: -5265573202795511453
+    second: pixel-white_215
+  - first:
+      213: -3736054983133273446
+    second: pixel-white_216
+  - first:
+      213: 6624384584662032550
+    second: pixel-white_217
+  - first:
+      213: -5373828907343428940
+    second: pixel-white_218
+  - first:
+      213: -5282403538311471061
+    second: pixel-white_219
+  - first:
+      213: 4818811467779792728
+    second: pixel-white_220
+  - first:
+      213: 1514722098523355374
+    second: pixel-white_221
+  - first:
+      213: -9202237760927718187
+    second: pixel-white_222
+  - first:
+      213: 3802625166128551453
+    second: pixel-white_223
+  - first:
+      213: -8223710423063604748
+    second: pixel-white_224
+  - first:
+      213: -5752550257423341432
+    second: pixel-white_225
+  - first:
+      213: -169012056720522419
+    second: pixel-white_226
+  - first:
+      213: 9183544223368032338
+    second: pixel-white_227
+  - first:
+      213: -1835012048082751634
+    second: pixel-white_228
+  - first:
+      213: 6866018374755698882
+    second: pixel-white_229
+  - first:
+      213: -2463202885624917447
+    second: pixel-white_230
+  - first:
+      213: 2236749873899236650
+    second: pixel-white_231
+  - first:
+      213: 8294420705202471914
+    second: pixel-white_232
+  - first:
+      213: 5946996160328075099
+    second: pixel-white_233
+  - first:
+      213: -6366757253201559843
+    second: pixel-white_234
+  - first:
+      213: -33941896496021771
+    second: pixel-white_235
+  - first:
+      213: 2754550761194572762
+    second: pixel-white_236
+  - first:
+      213: -7726206025248890492
+    second: pixel-white_237
+  - first:
+      213: -8705544125291763208
+    second: pixel-white_238
+  - first:
+      213: 8167766293570000359
+    second: pixel-white_239
+  - first:
+      213: -4133425491371656772
+    second: pixel-white_240
+  - first:
+      213: 323383987080463766
+    second: pixel-white_241
+  - first:
+      213: 4573803729794408313
+    second: pixel-white_242
+  - first:
+      213: -3935174896417884707
+    second: pixel-white_243
+  - first:
+      213: -3140998735002831107
+    second: pixel-white_244
+  - first:
+      213: -5224054424630669830
+    second: pixel-white_245
+  - first:
+      213: 8661864686369502963
+    second: pixel-white_246
+  - first:
+      213: -8364815235939228757
+    second: pixel-white_247
+  - first:
+      213: -7879689580793228851
+    second: pixel-white_248
+  - first:
+      213: -3463832019180973122
+    second: pixel-white_249
+  - first:
+      213: 3685439433614400569
+    second: pixel-white_250
+  - first:
+      213: -2699284182182461413
+    second: pixel-white_251
+  - first:
+      213: 7642185895899125723
+    second: pixel-white_252
+  - first:
+      213: 191642751329279266
+    second: pixel-white_253
+  - first:
+      213: 8483991259287206038
+    second: pixel-white_254
+  - first:
+      213: -8489860402512494180
+    second: pixel-white_255
+  - first:
+      213: 5356281518587553562
+    second: pixel-white_256
+  - first:
+      213: -2319766987260088810
+    second: pixel-white_257
+  - first:
+      213: 6654863578647426923
+    second: pixel-white_258
+  - first:
+      213: -2062435328867321975
+    second: pixel-white_259
+  - first:
+      213: 8209326889227301697
+    second: pixel-white_260
+  - first:
+      213: -3479821438588413496
+    second: pixel-white_261
+  - first:
+      213: 1642711938027326744
+    second: pixel-white_262
+  - first:
+      213: -8394450040406289466
+    second: pixel-white_263
+  - first:
+      213: 4120752863060364270
+    second: pixel-white_264
+  - first:
+      213: 6266953731968462580
+    second: pixel-white_265
+  - first:
+      213: 8326115505594831917
+    second: pixel-white_266
+  - first:
+      213: -1391614146196517177
+    second: pixel-white_267
+  - first:
+      213: 7267309342956538031
+    second: pixel-white_268
+  - first:
+      213: -6359749133532373864
+    second: pixel-white_269
+  - first:
+      213: -2116489810459868646
+    second: pixel-white_270
+  - first:
+      213: -220416153086985558
+    second: pixel-white_271
+  - first:
+      213: -5970695669866268257
+    second: pixel-white_272
+  - first:
+      213: 133327567614614386
+    second: pixel-white_273
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-white_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 972
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872922ae208fbf0f0800000000000000
+      internalID: -1081998594050715016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 909
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39667d2704f1bcdc0800000000000000
+      internalID: -3617763513996974445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 909
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6053c63c0926a7a20800000000000000
+      internalID: 3060867270645134598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 972
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697df72f1de6be00800000000000000
+      internalID: 1060295480363022688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 909
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e496830d65611e0c0800000000000000
+      internalID: -4548329586551133874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 909
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38048bc23b00bb710800000000000000
+      internalID: 1709961253066653827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 909
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725861fa7c02d4590800000000000000
+      internalID: -7688452946843499225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 909
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5019c93a476a3f980800000000000000
+      internalID: -8506272251281370875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 972
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a23406a29b560c0800000000000000
+      internalID: -4583053454124832173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 972
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6697075bec1dcb0800000000000000
+      internalID: -4840860845775165783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 909
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eacdf0a533931530800000000000000
+      internalID: 3824562367111219940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 909
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d385cfcfcfe78a000800000000000000
+      internalID: 47427421128644669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 909
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782c5b65afa57ece0800000000000000
+      internalID: -1376031129895320953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 909
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22cc5bf3590da180800000000000000
+      internalID: -9102609015541808597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 909
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9cf09eb457ba80800000000000000
+      internalID: -8451192998284452033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d7227a384abef60800000000000000
+      internalID: 8064720443088731520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 909
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d5513d1b9e1e910800000000000000
+      internalID: 1865028670667971849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 909
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a214170fe236790800000000000000
+      internalID: -7538129741060953501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 909
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f28cf68c1dbd1770800000000000000
+      internalID: 8583224395059462898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6636a6644ec4210800000000000000
+      internalID: 1318679781996455659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af97de9da67fadf0800000000000000
+      internalID: -166784173123067997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dce6300b4d0712c0800000000000000
+      internalID: -4461082290109879087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572604ce2fcfb420800000000000000
+      internalID: 2648062905681323867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dd09dcd502ac7e0800000000000000
+      internalID: -1744546318399775395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c6c19a8feb7ed00800000000000000
+      internalID: 1001979417311603762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665535a519d15a7d0800000000000000
+      internalID: -2907885474274912922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_26
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b5fa454c28d2900800000000000000
+      internalID: 661328500039310220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc408f31e0d6c4a0800000000000000
+      internalID: -6573336940249068302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ff813d185a7ec0800000000000000
+      internalID: -3568442872328882047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c1ca341c99d5730800000000000000
+      internalID: 3989513900263218262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_30
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 843
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b34eb77914b3330800000000000000
+      internalID: 3691616438434675458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_31
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb1f8821710598e0800000000000000
+      internalID: -1687440899856983042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_32
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 843
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1773fb62e8c9cd90800000000000000
+      internalID: -7076904464636741861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 843
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4c10ee8b3ebe990800000000000000
+      internalID: -7355535182972992282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d9af240107d620800000000000000
+      internalID: 2798706810925209022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f14eaf9640a5f30800000000000000
+      internalID: 4564966025520750466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34744be4b48ee7300800000000000000
+      internalID: 251894039319955267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f8de87799bc440800000000000000
+      internalID: 4957224553628105047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879dd863aa04b33d0800000000000000
+      internalID: -3225913608276944520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf6e7e344655b00800000000000000
+      internalID: 816669150253874001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5144f1f782683a0800000000000000
+      internalID: -6663594072197556803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_41
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc01c3f2fcf3e7b0800000000000000
+      internalID: -5196031424653620044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 777
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bb28afe83a9b590800000000000000
+      internalID: -7657909856883262675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_43
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8a5a0754ff67b0800000000000000
+      internalID: -5228691987680818380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_44
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e01707b9ba83b30800000000000000
+      internalID: 4267349331028282942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_45
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef23d6e39e7ee8290800000000000000
+      internalID: -7886110908518419714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_46
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45784e87048d52270800000000000000
+      internalID: 8225218065879828308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 777
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae4665fb687fa00800000000000000
+      internalID: 790248415973141185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_48
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 777
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3cd7bd571e2fd0800000000000000
+      internalID: -2364927063038869943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f63d4ac2cc08340800000000000000
+      internalID: 4864112089676083041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f31e497cc1e9a10800000000000000
+      internalID: 1918002134828269371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e2f035485219a0800000000000000
+      internalID: -6263847077521725516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01618a218b0cdb870800000000000000
+      internalID: 8700321951969187344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d4dc344294a6750800000000000000
+      internalID: 6298927448936238337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b13d6cf77c190390800000000000000
+      internalID: -7851713173682048587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_55
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 711
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eab2e73b7c46f2b0800000000000000
+      internalID: -5551165398585263386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3537678d37d31a6b0800000000000000
+      internalID: -5286876919794076845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_57
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 765
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f859c19e06f5840800000000000000
+      internalID: 5214993447841533804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858482e918f5fac60800000000000000
+      internalID: 7831583287329441880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_59
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 711
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d255eedd8beedce0800000000000000
+      internalID: -1378405441366306088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_60
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddf4809f55f04440800000000000000
+      internalID: 4918200583883914708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_61
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 711
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5407865e349c259b0800000000000000
+      internalID: -5092786935153790907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_62
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332e39cd774d996d0800000000000000
+      internalID: -2983119666889366989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_63
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 711
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf97195d5a07eecd0800000000000000
+      internalID: -2526958483353273860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_64
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 729
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa339c0661541f250800000000000000
+      internalID: 5976634142912754602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_65
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 711
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40c9c0ed63201b50800000000000000
+      internalID: 6561783611908538447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_66
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 711
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca9c8e625bc91290800000000000000
+      internalID: -7919074914851841336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6369b1c0b09b0e0800000000000000
+      internalID: -2253757991891880285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3d1f0193355ff0800000000000000
+      internalID: -48075522900673457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 645
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d36469eaeb546570800000000000000
+      internalID: 8458987064604779474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 645
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8055dce3611c220800000000000000
+      internalID: 2504307326783391976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_71
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9087e2d0969abfc10800000000000000
+      internalID: 2088449120874166281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_72
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 699
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0abd63076964ea0800000000000000
+      internalID: -5888854054039478067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_73
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 699
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79846a384a9f200800000000000000
+      internalID: 214383342614255520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_74
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed77ccbdea69f130800000000000000
+      internalID: 3601026946366406123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_75
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322497c81b259dd0800000000000000
+      internalID: -2480028634370006478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_76
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6a587990eb2650800000000000000
+      internalID: 6209303461014170965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8904625bbe19a9e10800000000000000
+      internalID: 2205235409093804184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_78
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79955ce619a2a840800000000000000
+      internalID: 5233931632877345146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_79
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 645
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d86f9167a1243040800000000000000
+      internalID: 4626359719997434066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_80
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 699
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca1aedbd0f6feef0800000000000000
+      internalID: -76720563830515007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_81
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 699
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ca8d63bf5ddd920800000000000000
+      internalID: 3016802600341777466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_82
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 699
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7064cda7106d361f0800000000000000
+      internalID: -1052762586029996537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_83
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 645
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ec58b87e3dc5c0800000000000000
+      internalID: -4193626989801970446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_84
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 690
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1a06e7be4ef1180800000000000000
+      internalID: -9142337018450107905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_85
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 645
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ff3dcb06b5ca10800000000000000
+      internalID: 1929148177202541737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_86
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 645
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bec6e84d1c3a1940800000000000000
+      internalID: 5267588810638020276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_87
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 645
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2232d42b3e12cedb0800000000000000
+      internalID: -4761393444204764382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_88
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 654
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9966e6cf292862c20800000000000000
+      internalID: 3181373754595763865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f6956868134d90800000000000000
+      internalID: -7114816149655193381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8122cd2d9a625d4b0800000000000000
+      internalID: -5416380466014182888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ebb25cc9b3b2ae0800000000000000
+      internalID: -1573098100326941047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588a314ad0c701000800000000000000
+      internalID: 4639997656541317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_93
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2f347f5f80b2e50800000000000000
+      internalID: 6785527116072219370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_94
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b592378a6df14d680800000000000000
+      internalID: -8731318770754967205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_95
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95ea4790157c40d0800000000000000
+      internalID: -3437243701472336485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_96
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec36edb25c712a0800000000000000
+      internalID: -6766723122895532430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_97
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6e71d8409a53420800000000000000
+      internalID: 2609177396143187630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_98
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7eaf50a09ad8780800000000000000
+      internalID: -8679095046357981221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_99
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 579
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1696b244e9575620800000000000000
+      internalID: 2762775733321766430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_100
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299389007a1a842a0800000000000000
+      internalID: -6752969902600472174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_101
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad2e369ba395d3c0800000000000000
+      internalID: -4335396701104886363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_102
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f773ad063a117c0800000000000000
+      internalID: -4102318149184553151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_103
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 579
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dca38fccb64bd20800000000000000
+      internalID: 3293375755596778808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cef8bb421064e40800000000000000
+      internalID: 5640196840605346872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_105
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5548adf77464a27f0800000000000000
+      internalID: -636619124417854379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b837438dccca26740800000000000000
+      internalID: 5143863720211149707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_107
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 513
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e47f504b47c1b0f0800000000000000
+      internalID: -1102881307712588572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_108
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 513
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b8a04672f2a100800000000000000
+      internalID: 117923129969915001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_109
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9db33f2db36fd40800000000000000
+      internalID: 5617743362401229227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede699c24f01cdfe0800000000000000
+      internalID: -1163035962862113058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_111
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e63720ae763562e0800000000000000
+      internalID: -2133238931009358104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_112
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a871ad203d6855090800000000000000
+      internalID: -8046376918383454326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_113
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b7be11a9ca1ccb0800000000000000
+      internalID: -4845401946348356750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_114
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 567
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2655f2ec882fd0800000000000000
+      internalID: -2366486697776632087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_115
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 567
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769e18c37dd6a4330800000000000000
+      internalID: 3695887215411456359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_116
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 567
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b5c7763794bbf10800000000000000
+      internalID: 2286501995826928394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_117
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 567
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63c39684d7f93d0800000000000000
+      internalID: -3197699460453091646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_118
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 567
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7fe770c7b0d0630800000000000000
+      internalID: 3894781880074958827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_119
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 567
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d6cd35c5d982b0800000000000000
+      internalID: -5581695220027304359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_120
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f0aefdae6e867a0800000000000000
+      internalID: -6383598575344283776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_121
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 513
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf5baa0a3fa1f30800000000000000
+      internalID: 4547214645168307335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_122
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 513
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a5f75c8bb05510800000000000000
+      internalID: 1535933684378871026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_123
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 513
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a6b738b7e98d380800000000000000
+      internalID: -8946226406447420829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_124
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 513
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc28089bbad4f9f0800000000000000
+      internalID: -435482764703683388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_125
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 513
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7828c466468258680800000000000000
+      internalID: -8753545889046560121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d38f419134980ad0800000000000000
+      internalID: -2735773833015360557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_127
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e06ef7f803074c0800000000000000
+      internalID: -4291877051999842748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_128
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 447
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1ab84aa62e25070800000000000000
+      internalID: 8093780427993227687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_129
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0604b3fc84e7fcf90800000000000000
+      internalID: -6931182450320392096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_130
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696f525f0b0abff90800000000000000
+      internalID: -6918759720637041002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_131
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efbab9b6534f5a70800000000000000
+      internalID: 8817840635176992737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_132
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cf42ff0d3cf65a0800000000000000
+      internalID: -6525782032635331505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_133
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639ec010546d847c0800000000000000
+      internalID: -4086781069980014282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_134
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 447
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1b2bbdfbb5b94c0800000000000000
+      internalID: -4279726141302722076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_135
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0233d4c15043fe770800000000000000
+      internalID: 8642183406501573408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_136
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe3e61d02ed0d5f0800000000000000
+      internalID: -733842506727407873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_137
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a976aa594a953b70800000000000000
+      internalID: 8878171880274950562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_138
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a80cef1d424fb750800000000000000
+      internalID: 6322845300866943138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_139
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 501
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98582c562068ec190800000000000000
+      internalID: -7940261748152302199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_140
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 447
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc191759ead78bb0800000000000000
+      internalID: -4933734171037590327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_141
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 474
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92260aba8969c9c30800000000000000
+      internalID: 4367531321101148713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 447
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d177f05f1044c0800000000000000
+      internalID: -4305406811156916681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ff191406bdd0b0800000000000000
+      internalID: -5702201424463531249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_144
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed921676fcaff2bf0800000000000000
+      internalID: -346782877584643618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_145
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3da3f3ecb594b60800000000000000
+      internalID: 7730811176740377514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_146
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 381
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84668213ec9a1e40800000000000000
+      internalID: 5627983183435162766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_147
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 381
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c6155a79d1aa540800000000000000
+      internalID: 5019857271808683095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_148
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f05b236bd2ce3080800000000000000
+      internalID: -9205706340781305616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_149
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893c7b0dabcde67f0800000000000000
+      internalID: -617313403979447400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_150
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 381
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbeb9dafd760bd90800000000000000
+      internalID: -7084048003465745474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_151
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b40ef249667343d0800000000000000
+      internalID: -3223602713799555916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_152
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47c8d4e70f68eb30800000000000000
+      internalID: 4316822322529486669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_153
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399ca3df072bb000800000000000000
+      internalID: 52678769574189363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_154
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3885f496687870a0800000000000000
+      internalID: -6883619648454686658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_155
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 381
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6c16664307685e0800000000000000
+      internalID: -1907714021786532177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_156
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 381
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2924ad381f78aefa0800000000000000
+      internalID: -5770650501152882030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_157
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 381
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9b1dbe4b1039f0800000000000000
+      internalID: -490862334389282230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a97c37e229181a0800000000000000
+      internalID: -6809000433398867322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_159
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09215672e75c3d30800000000000000
+      internalID: 4412498365075499274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_160
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430121c504368ac0800000000000000
+      internalID: -3853335231849233598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_161
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f09644b2a6b6ed30800000000000000
+      internalID: 4460453290882535669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_162
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3798aeb7b688c9270800000000000000
+      internalID: 8258625811912493427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_163
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776a3bd8df89e8df0800000000000000
+      internalID: -176035120649361801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_164
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707373ed4efd30440800000000000000
+      internalID: 4901006993582929671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_165
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8634aa4c3bdcfb0800000000000000
+      internalID: -4625843584988125005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_166
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 333
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb138f075e6705220800000000000000
+      internalID: 2472606923241304511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_167
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 315
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa0c0a3fce8891a0800000000000000
+      internalID: -6802530216459891976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_168
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8836e3432be4fb720800000000000000
+      internalID: 2864094415318573960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_169
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 315
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420e0aa944442d030800000000000000
+      internalID: 3517949320372477988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_170
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 315
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d4d0355c272e140800000000000000
+      internalID: 4747483149029428564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_171
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 315
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c0b14afd844440800000000000000
+      internalID: 4919212798978868028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_172
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 315
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e61dce1194d7d730800000000000000
+      internalID: 4023918511830931175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_173
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 315
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4f69f95e97cb080800000000000000
+      internalID: -9170320714101230426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_174
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 315
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64bf55c1a1d65370800000000000000
+      internalID: 8311060655090152558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2bd17b83e60bb20800000000000000
+      internalID: 3148137329401377471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_176
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 333
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d14a6de895d84b0800000000000000
+      internalID: -5436590705145012923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_177
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 315
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3800f6963dcbe5490800000000000000
+      internalID: -7755553892092411773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092febf9f669c9ac0800000000000000
+      internalID: -3847034575515618672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_179
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a32908b96c0c8b0800000000000000
+      internalID: -5133885204023068002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_180
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f59a317f186f7140800000000000000
+      internalID: 4719605418760508919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_181
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee48754eb5152820800000000000000
+      internalID: 2892742242608893677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_182
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 249
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe568922d944380800000000000000
+      internalID: -8987886184413401239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 249
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc5969e29f477a60800000000000000
+      internalID: 7671687982648745178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_184
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d711afea90d0c300800000000000000
+      internalID: 270445341506082768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_185
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d78581a8d29e1f40800000000000000
+      internalID: 5701155637418100694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_186
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133d43db892242080800000000000000
+      internalID: -9213200898288463055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_187
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 249
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc3ed1d0bb408d40800000000000000
+      internalID: 5584546760746745039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_188
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 249
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4d56a7c2cc5f850800000000000000
+      internalID: 6410254136035890343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_189
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 258
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aafaf8e84d841990800000000000000
+      internalID: -7416147342086440279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_190
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 258
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651cfae0b9bd583c0800000000000000
+      internalID: -4357835605398273706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_191
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 258
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e1259225f695340800000000000000
+      internalID: 4853032472139669007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_192
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 258
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d873ba616d564d90800000000000000
+      internalID: -7113895888401762096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_193
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 285
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc898336be65870800000000000000
+      internalID: 8671376943932297145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_194
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 264
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab0bba1084e78650800000000000000
+      internalID: 6235203447973153711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bfb20f31fe3b860800000000000000
+      internalID: 7544636669688544093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_196
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74719006b607513e0800000000000000
+      internalID: -2083635646113966265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_197
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43550f964fcc9540800000000000000
+      internalID: 5016111987206476623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_198
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bd877219489df90800000000000000
+      internalID: -6928360792765441226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_199
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0841dbe4b3dec6f30800000000000000
+      internalID: 4570288560854078592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_200
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6076975f9f99a50800000000000000
+      internalID: 6528523967549343402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_201
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01581f7f2dad7e70800000000000000
+      internalID: 9114631640375120142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_202
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cc16278de03a210800000000000000
+      internalID: 1342933436681276556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_203
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb1ca0c40a7ad80800000000000000
+      internalID: -8239440744792605165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_204
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b30c564b9d1e50800000000000000
+      internalID: 6781747340383598314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_205
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b555c9fbc2bef30800000000000000
+      internalID: 4605824245389679367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_206
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680277d341c079910800000000000000
+      internalID: 1843955853501603974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_207
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 192
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944456409c3eccb30800000000000000
+      internalID: 4309069395988399177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_208
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 201
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a622d2fc8608228a0800000000000000
+      internalID: -6331356938488700310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_209
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 201
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df93eb67802520320800000000000000
+      internalID: 2522668937586293245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c196a3c6b7ab84b0800000000000000
+      internalID: -5437067721711382076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_211
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6e731f612e023b0800000000000000
+      internalID: -5539178953501579536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_212
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614143f96d3c30260800000000000000
+      internalID: 7062703967208477718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_213
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb2f294807638920800000000000000
+      internalID: 2991347862789368760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_214
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9cc2e2928938570800000000000000
+      internalID: 8467779027022432738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_215
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 144
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361ce8cf11dece6b0800000000000000
+      internalID: -5265573202795511453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_216
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92630d89cdd62cc0800000000000000
+      internalID: -3736054983133273446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_217
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0aa58aeaa8eeb50800000000000000
+      internalID: 6624384584662032550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_218
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 144
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c11e94135c65b0800000000000000
+      internalID: -5373828907343428940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_219
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ada228f121b6b0800000000000000
+      internalID: -5282403538311471061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_220
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd790bf7bdfd240800000000000000
+      internalID: 4818811467779792728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_221
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee83be729bf550510800000000000000
+      internalID: 1514722098523355374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_222
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a73113851b4080800000000000000
+      internalID: -9202237760927718187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_223
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 144
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d169d010173a5c430800000000000000
+      internalID: 3802625166128551453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_224
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 144
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1dd99f0f28fdd80800000000000000
+      internalID: -8223710423063604748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88823b9e406da20b0800000000000000
+      internalID: -5752550257423341432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_226
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d434a6c0e6c87adf0800000000000000
+      internalID: -169012056720522419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_227
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25031fc80d0827f70800000000000000
+      internalID: 9183544223368032338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_228
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f277bb34ab886e0800000000000000
+      internalID: -1835012048082751634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_229
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c84e98855ff84f50800000000000000
+      internalID: 6866018374755698882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_230
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9321c90b602f0ddd0800000000000000
+      internalID: -2463202885624917447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_231
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de925d8288a0f10800000000000000
+      internalID: 2236749873899236650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_232
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae30d378fa3bb1370800000000000000
+      internalID: 8294420705202471914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_233
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5787f0df79f78250800000000000000
+      internalID: 5946996160328075099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_234
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde77cfb20cb4a7a0800000000000000
+      internalID: -6366757253201559843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_235
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fef954660a678ff0800000000000000
+      internalID: -33941896496021771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_236
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbc8c4b2512a3620800000000000000
+      internalID: 2754550761194572762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_237
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481ae832e8007c490800000000000000
+      internalID: -7726206025248890492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_238
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 96
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9ee73fdb1bf2780800000000000000
+      internalID: -8705544125291763208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_239
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 96
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e516a85b2cb95170800000000000000
+      internalID: 8167766293570000359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb97f395a6f13a6c0800000000000000
+      internalID: -4133425491371656772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_241
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6950bfbd504ec7400800000000000000
+      internalID: 323383987080463766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_242
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f90ca524a697f30800000000000000
+      internalID: 4573803729794408313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_243
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53af9f7437369c0800000000000000
+      internalID: -3935174896417884707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_244
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67430da4ee864d0800000000000000
+      internalID: -3140998735002831107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_245
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc494dd2e6087b0800000000000000
+      internalID: -5224054424630669830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_246
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6fd8b2a00253870800000000000000
+      internalID: 8661864686369502963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_247
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba321129cd43aeb80800000000000000
+      internalID: -8364815235939228757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_248
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1197c1318b5a290800000000000000
+      internalID: -7879689580793228851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_249
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 48
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb31817712ffdefc0800000000000000
+      internalID: -3463832019180973122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_250
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 48
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9dc973af452330800000000000000
+      internalID: 3685439433614400569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_251
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 48
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100f2576573a8ad0800000000000000
+      internalID: -2699284182182461413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_252
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd75190159f7e0a60800000000000000
+      internalID: 7642185895899125723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_253
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 66
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d92c4211ad8a200800000000000000
+      internalID: 191642751329279266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_254
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 66
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6983557a9113db570800000000000000
+      internalID: 8483991259287206038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_255
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 84
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c918693f1f4fd2a80800000000000000
+      internalID: -8489860402512494180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_256
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 66
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a66099a5555a40800000000000000
+      internalID: 5356281518587553562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_257
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 54
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e2faa37388ecfd0800000000000000
+      internalID: -2319766987260088810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_258
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67f6f17a23da5c50800000000000000
+      internalID: 6654863578647426923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_259
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987b5a2eef1c063e0800000000000000
+      internalID: -2062435328867321975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_260
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143b4759f436de170800000000000000
+      internalID: 8209326889227301697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_261
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91627a6d035bfc0800000000000000
+      internalID: -3479821438588413496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_262
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d896eddc51cc610800000000000000
+      internalID: 1642711938027326744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_263
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d1d8f92ce08b80800000000000000
+      internalID: -8394450040406289466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_264
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb03e175eadf2930800000000000000
+      internalID: 4120752863060364270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_265
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fee9c92731b8f650800000000000000
+      internalID: 6266953731968462580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_266
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241add40fd4c8370800000000000000
+      internalID: 8326115505594831917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_267
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce4c8f9e4efface0800000000000000
+      internalID: -1391614146196517177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_268
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84dc3f75baad460800000000000000
+      internalID: 7267309342956538031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_269
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 36
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c5433cbd1adb7a0800000000000000
+      internalID: -6359749133532373864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_270
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a124ec42bb7b0a2e0800000000000000
+      internalID: -2116489810459868646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_271
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 18
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaafd743dace0fcf0800000000000000
+      internalID: -220416153086985558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_272
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 18
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9978af1ce3d32da0800000000000000
+      internalID: -5970695669866268257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-white_273
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b9f6267bca9d100800000000000000
+      internalID: 133327567614614386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixel-white_0: -1081998594050715016
+      pixel-white_1: -3617763513996974445
+      pixel-white_10: 3824562367111219940
+      pixel-white_100: -6752969902600472174
+      pixel-white_101: -4335396701104886363
+      pixel-white_102: -4102318149184553151
+      pixel-white_103: 3293375755596778808
+      pixel-white_104: 5640196840605346872
+      pixel-white_105: -636619124417854379
+      pixel-white_106: 5143863720211149707
+      pixel-white_107: -1102881307712588572
+      pixel-white_108: 117923129969915001
+      pixel-white_109: 5617743362401229227
+      pixel-white_11: 47427421128644669
+      pixel-white_110: -1163035962862113058
+      pixel-white_111: -2133238931009358104
+      pixel-white_112: -8046376918383454326
+      pixel-white_113: -4845401946348356750
+      pixel-white_114: -2366486697776632087
+      pixel-white_115: 3695887215411456359
+      pixel-white_116: 2286501995826928394
+      pixel-white_117: -3197699460453091646
+      pixel-white_118: 3894781880074958827
+      pixel-white_119: -5581695220027304359
+      pixel-white_12: -1376031129895320953
+      pixel-white_120: -6383598575344283776
+      pixel-white_121: 4547214645168307335
+      pixel-white_122: 1535933684378871026
+      pixel-white_123: -8946226406447420829
+      pixel-white_124: -435482764703683388
+      pixel-white_125: -8753545889046560121
+      pixel-white_126: -2735773833015360557
+      pixel-white_127: -4291877051999842748
+      pixel-white_128: 8093780427993227687
+      pixel-white_129: -6931182450320392096
+      pixel-white_13: -9102609015541808597
+      pixel-white_130: -6918759720637041002
+      pixel-white_131: 8817840635176992737
+      pixel-white_132: -6525782032635331505
+      pixel-white_133: -4086781069980014282
+      pixel-white_134: -4279726141302722076
+      pixel-white_135: 8642183406501573408
+      pixel-white_136: -733842506727407873
+      pixel-white_137: 8878171880274950562
+      pixel-white_138: 6322845300866943138
+      pixel-white_139: -7940261748152302199
+      pixel-white_14: -8451192998284452033
+      pixel-white_140: -4933734171037590327
+      pixel-white_141: 4367531321101148713
+      pixel-white_142: -4305406811156916681
+      pixel-white_143: -5702201424463531249
+      pixel-white_144: -346782877584643618
+      pixel-white_145: 7730811176740377514
+      pixel-white_146: 5627983183435162766
+      pixel-white_147: 5019857271808683095
+      pixel-white_148: -9205706340781305616
+      pixel-white_149: -617313403979447400
+      pixel-white_15: 8064720443088731520
+      pixel-white_150: -7084048003465745474
+      pixel-white_151: -3223602713799555916
+      pixel-white_152: 4316822322529486669
+      pixel-white_153: 52678769574189363
+      pixel-white_154: -6883619648454686658
+      pixel-white_155: -1907714021786532177
+      pixel-white_156: -5770650501152882030
+      pixel-white_157: -490862334389282230
+      pixel-white_158: -6809000433398867322
+      pixel-white_159: 4412498365075499274
+      pixel-white_16: 1865028670667971849
+      pixel-white_160: -3853335231849233598
+      pixel-white_161: 4460453290882535669
+      pixel-white_162: 8258625811912493427
+      pixel-white_163: -176035120649361801
+      pixel-white_164: 4901006993582929671
+      pixel-white_165: -4625843584988125005
+      pixel-white_166: 2472606923241304511
+      pixel-white_167: -6802530216459891976
+      pixel-white_168: 2864094415318573960
+      pixel-white_169: 3517949320372477988
+      pixel-white_17: -7538129741060953501
+      pixel-white_170: 4747483149029428564
+      pixel-white_171: 4919212798978868028
+      pixel-white_172: 4023918511830931175
+      pixel-white_173: -9170320714101230426
+      pixel-white_174: 8311060655090152558
+      pixel-white_175: 3148137329401377471
+      pixel-white_176: -5436590705145012923
+      pixel-white_177: -7755553892092411773
+      pixel-white_178: -3847034575515618672
+      pixel-white_179: -5133885204023068002
+      pixel-white_18: 8583224395059462898
+      pixel-white_180: 4719605418760508919
+      pixel-white_181: 2892742242608893677
+      pixel-white_182: -8987886184413401239
+      pixel-white_183: 7671687982648745178
+      pixel-white_184: 270445341506082768
+      pixel-white_185: 5701155637418100694
+      pixel-white_186: -9213200898288463055
+      pixel-white_187: 5584546760746745039
+      pixel-white_188: 6410254136035890343
+      pixel-white_189: -7416147342086440279
+      pixel-white_19: 1318679781996455659
+      pixel-white_190: -4357835605398273706
+      pixel-white_191: 4853032472139669007
+      pixel-white_192: -7113895888401762096
+      pixel-white_193: 8671376943932297145
+      pixel-white_194: 6235203447973153711
+      pixel-white_195: 7544636669688544093
+      pixel-white_196: -2083635646113966265
+      pixel-white_197: 5016111987206476623
+      pixel-white_198: -6928360792765441226
+      pixel-white_199: 4570288560854078592
+      pixel-white_2: 3060867270645134598
+      pixel-white_20: -166784173123067997
+      pixel-white_200: 6528523967549343402
+      pixel-white_201: 9114631640375120142
+      pixel-white_202: 1342933436681276556
+      pixel-white_203: -8239440744792605165
+      pixel-white_204: 6781747340383598314
+      pixel-white_205: 4605824245389679367
+      pixel-white_206: 1843955853501603974
+      pixel-white_207: 4309069395988399177
+      pixel-white_208: -6331356938488700310
+      pixel-white_209: 2522668937586293245
+      pixel-white_21: -4461082290109879087
+      pixel-white_210: -5437067721711382076
+      pixel-white_211: -5539178953501579536
+      pixel-white_212: 7062703967208477718
+      pixel-white_213: 2991347862789368760
+      pixel-white_214: 8467779027022432738
+      pixel-white_215: -5265573202795511453
+      pixel-white_216: -3736054983133273446
+      pixel-white_217: 6624384584662032550
+      pixel-white_218: -5373828907343428940
+      pixel-white_219: -5282403538311471061
+      pixel-white_22: 2648062905681323867
+      pixel-white_220: 4818811467779792728
+      pixel-white_221: 1514722098523355374
+      pixel-white_222: -9202237760927718187
+      pixel-white_223: 3802625166128551453
+      pixel-white_224: -8223710423063604748
+      pixel-white_225: -5752550257423341432
+      pixel-white_226: -169012056720522419
+      pixel-white_227: 9183544223368032338
+      pixel-white_228: -1835012048082751634
+      pixel-white_229: 6866018374755698882
+      pixel-white_23: -1744546318399775395
+      pixel-white_230: -2463202885624917447
+      pixel-white_231: 2236749873899236650
+      pixel-white_232: 8294420705202471914
+      pixel-white_233: 5946996160328075099
+      pixel-white_234: -6366757253201559843
+      pixel-white_235: -33941896496021771
+      pixel-white_236: 2754550761194572762
+      pixel-white_237: -7726206025248890492
+      pixel-white_238: -8705544125291763208
+      pixel-white_239: 8167766293570000359
+      pixel-white_24: 1001979417311603762
+      pixel-white_240: -4133425491371656772
+      pixel-white_241: 323383987080463766
+      pixel-white_242: 4573803729794408313
+      pixel-white_243: -3935174896417884707
+      pixel-white_244: -3140998735002831107
+      pixel-white_245: -5224054424630669830
+      pixel-white_246: 8661864686369502963
+      pixel-white_247: -8364815235939228757
+      pixel-white_248: -7879689580793228851
+      pixel-white_249: -3463832019180973122
+      pixel-white_25: -2907885474274912922
+      pixel-white_250: 3685439433614400569
+      pixel-white_251: -2699284182182461413
+      pixel-white_252: 7642185895899125723
+      pixel-white_253: 191642751329279266
+      pixel-white_254: 8483991259287206038
+      pixel-white_255: -8489860402512494180
+      pixel-white_256: 5356281518587553562
+      pixel-white_257: -2319766987260088810
+      pixel-white_258: 6654863578647426923
+      pixel-white_259: -2062435328867321975
+      pixel-white_26: 661328500039310220
+      pixel-white_260: 8209326889227301697
+      pixel-white_261: -3479821438588413496
+      pixel-white_262: 1642711938027326744
+      pixel-white_263: -8394450040406289466
+      pixel-white_264: 4120752863060364270
+      pixel-white_265: 6266953731968462580
+      pixel-white_266: 8326115505594831917
+      pixel-white_267: -1391614146196517177
+      pixel-white_268: 7267309342956538031
+      pixel-white_269: -6359749133532373864
+      pixel-white_27: -6573336940249068302
+      pixel-white_270: -2116489810459868646
+      pixel-white_271: -220416153086985558
+      pixel-white_272: -5970695669866268257
+      pixel-white_273: 133327567614614386
+      pixel-white_28: -3568442872328882047
+      pixel-white_29: 3989513900263218262
+      pixel-white_3: 1060295480363022688
+      pixel-white_30: 3691616438434675458
+      pixel-white_31: -1687440899856983042
+      pixel-white_32: -7076904464636741861
+      pixel-white_33: -7355535182972992282
+      pixel-white_34: 2798706810925209022
+      pixel-white_35: 4564966025520750466
+      pixel-white_36: 251894039319955267
+      pixel-white_37: 4957224553628105047
+      pixel-white_38: -3225913608276944520
+      pixel-white_39: 816669150253874001
+      pixel-white_4: -4548329586551133874
+      pixel-white_40: -6663594072197556803
+      pixel-white_41: -5196031424653620044
+      pixel-white_42: -7657909856883262675
+      pixel-white_43: -5228691987680818380
+      pixel-white_44: 4267349331028282942
+      pixel-white_45: -7886110908518419714
+      pixel-white_46: 8225218065879828308
+      pixel-white_47: 790248415973141185
+      pixel-white_48: -2364927063038869943
+      pixel-white_49: 4864112089676083041
+      pixel-white_5: 1709961253066653827
+      pixel-white_50: 1918002134828269371
+      pixel-white_51: -6263847077521725516
+      pixel-white_52: 8700321951969187344
+      pixel-white_53: 6298927448936238337
+      pixel-white_54: -7851713173682048587
+      pixel-white_55: -5551165398585263386
+      pixel-white_56: -5286876919794076845
+      pixel-white_57: 5214993447841533804
+      pixel-white_58: 7831583287329441880
+      pixel-white_59: -1378405441366306088
+      pixel-white_6: -7688452946843499225
+      pixel-white_60: 4918200583883914708
+      pixel-white_61: -5092786935153790907
+      pixel-white_62: -2983119666889366989
+      pixel-white_63: -2526958483353273860
+      pixel-white_64: 5976634142912754602
+      pixel-white_65: 6561783611908538447
+      pixel-white_66: -7919074914851841336
+      pixel-white_67: -2253757991891880285
+      pixel-white_68: -48075522900673457
+      pixel-white_69: 8458987064604779474
+      pixel-white_7: -8506272251281370875
+      pixel-white_70: 2504307326783391976
+      pixel-white_71: 2088449120874166281
+      pixel-white_72: -5888854054039478067
+      pixel-white_73: 214383342614255520
+      pixel-white_74: 3601026946366406123
+      pixel-white_75: -2480028634370006478
+      pixel-white_76: 6209303461014170965
+      pixel-white_77: 2205235409093804184
+      pixel-white_78: 5233931632877345146
+      pixel-white_79: 4626359719997434066
+      pixel-white_8: -4583053454124832173
+      pixel-white_80: -76720563830515007
+      pixel-white_81: 3016802600341777466
+      pixel-white_82: -1052762586029996537
+      pixel-white_83: -4193626989801970446
+      pixel-white_84: -9142337018450107905
+      pixel-white_85: 1929148177202541737
+      pixel-white_86: 5267588810638020276
+      pixel-white_87: -4761393444204764382
+      pixel-white_88: 3181373754595763865
+      pixel-white_89: -7114816149655193381
+      pixel-white_9: -4840860845775165783
+      pixel-white_90: -5416380466014182888
+      pixel-white_91: -1573098100326941047
+      pixel-white_92: 4639997656541317
+      pixel-white_93: 6785527116072219370
+      pixel-white_94: -8731318770754967205
+      pixel-white_95: -3437243701472336485
+      pixel-white_96: -6766723122895532430
+      pixel-white_97: 2609177396143187630
+      pixel-white_98: -8679095046357981221
+      pixel-white_99: 2762775733321766430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
