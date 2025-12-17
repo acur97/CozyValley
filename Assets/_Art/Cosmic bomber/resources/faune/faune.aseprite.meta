@@ -2,7 +2,87 @@ fileFormatVersion: 2
 guid: 509729a215c06c245832894ef067968b
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-die-side
+    second: {fileID: 7400000, guid: 201476c1231b227488b3986e13d95054, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-idle-down
+    second: {fileID: 7400000, guid: f77b02c29ee979a439a4f9a5be989f71, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-idle-side
+    second: {fileID: 7400000, guid: b24fac38e4984e747b25e7dd518216f6, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-idle-up
+    second: {fileID: 7400000, guid: 9363adf49dddb304b9a579279525fa65, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-push-down
+    second: {fileID: 7400000, guid: 0a8c2be6b504de74ca91d68a106b7493, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-push-side
+    second: {fileID: 7400000, guid: 41a4b18f90693c04d8d45a30712f9299, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-push-up
+    second: {fileID: 7400000, guid: d4116fe2f47e3654ea8a412e79aaaca8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-run-down
+    second: {fileID: 7400000, guid: b0c5216bf1e72274e96ce57ee2f619f9, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-run-side
+    second: {fileID: 7400000, guid: 0c690cd78f95de84d9e52f65a02f614e, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-run-up
+    second: {fileID: 7400000, guid: 8c9a12272d5b2cd40b11d0efa51ce663, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-walk-down
+    second: {fileID: 7400000, guid: fcf821a65e8c17c4db316e57275a8843, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-walk-down-lift
+    second: {fileID: 7400000, guid: 307c82bb1430db44780f2bd6a6242733, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-walk-side
+    second: {fileID: 7400000, guid: 8d5b3c21dd9bf9b4d840e38d15b878be, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-walk-side-lift
+    second: {fileID: 7400000, guid: 15fe596f52cbef7439588889d18470c4, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-walk-up
+    second: {fileID: 7400000, guid: 10ecaec3f9c018c42afcbd1e036bc770, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: faune-walk-up-lift
+    second: {fileID: 7400000, guid: ef45c5a4a1714eb4a8d3c7c2e2a2344d, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -102,7 +182,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
-  platformSettingsDirtyTick: 639014804974157085
+  platformSettingsDirtyTick: 639015839277227150
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -2668,7 +2748,7 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  generatePhysicsShape: 0
+  generatePhysicsShape: 1
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 48, y: 48}

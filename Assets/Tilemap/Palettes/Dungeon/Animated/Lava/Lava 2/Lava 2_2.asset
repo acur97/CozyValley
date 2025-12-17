@@ -10,15 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: Lava 2_1
+  m_Name: Lava 2_2
   m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
   m_AnimatedSprites:
-  - {fileID: 186883848, guid: f83aca7017fff3145994d0cd1c5bb6cb, type: 3}
-  - {fileID: 830408529, guid: f83aca7017fff3145994d0cd1c5bb6cb, type: 3}
-  - {fileID: -623987135, guid: f83aca7017fff3145994d0cd1c5bb6cb, type: 3}
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  - {fileID: 1644042680, guid: f83aca7017fff3145994d0cd1c5bb6cb, type: 3}
+  - {fileID: 1941588091, guid: f83aca7017fff3145994d0cd1c5bb6cb, type: 3}
+  - {fileID: 1982443787, guid: f83aca7017fff3145994d0cd1c5bb6cb, type: 3}
+  - {fileID: 1941588091, guid: f83aca7017fff3145994d0cd1c5bb6cb, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
-  m_TileColliderType: 0
+  m_TileColliderType: 1
   m_TileAnimationFlags: 0
