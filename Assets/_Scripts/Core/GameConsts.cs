@@ -1,5 +1,31 @@
 using UnityEngine;
 
+public enum MovementStatus
+{
+    Idle,
+    Walk,
+    Lift,
+    Push,
+    Run,
+    Die
+}
+
+public enum MovementDirection
+{
+    Up,
+    Left,
+    Right,
+    Down
+}
+
+public struct InputStrings
+{
+    public const string Horizontal = "Horizontal";
+    public const string Vertical = "Vertical";
+    public const string Fire1 = "Fire1";
+    public const string Fire3 = "Fire3";
+}
+
 public class AnimationTriggers
 {
     public static readonly int[,] TriggerTable =

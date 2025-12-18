@@ -6,55 +6,73 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private SpriteRenderer render;
     [SerializeField] private Animator anim;
 
-    private enum MovementStatus
-    {
-        Idle,
-        Walk,
-        Lift,
-        Push,
-        Run,
-        Die
-    }
     private MovementStatus currentMovement;
-
-    private enum MovementDirection
-    {
-        Up,
-        Left,
-        Right,
-        Down
-    }
     private MovementDirection currentDirection;
 
     private Vector2 currentInput = Vector2.zero;
+    private bool isRunning = false;
+
+    private bool sendMovementChange = false;
 
     private void Update()
     {
-        currentInput.x = Input.GetAxisRaw("Horizontal");
-        currentInput.y = Input.GetAxisRaw("Vertical");
+        #region Movement
+        currentInput.x = Input.GetAxisRaw(InputStrings.Horizontal);
+        currentInput.y = Input.GetAxisRaw(InputStrings.Vertical);
+        //currentInput.x = Input.GetAxis(InputStrings.Horizontal);
+        //currentInput.y = Input.GetAxis(InputStrings.Vertical);
+        isRunning = Input.GetButton(InputStrings.Fire3);
 
-        if (currentInput.y > 0)
-            currentDirection = MovementDirection.Up;
-        else if (currentInput.y < 0)
-            currentDirection = MovementDirection.Down;
-        else if (currentInput.x < 0)
-            currentDirection = MovementDirection.Left;
-        else if (currentInput.x > 0)
-            currentDirection = MovementDirection.Right;
-
-        if (currentInput.magnitude == 0)
+        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
         {
-            currentMovement = MovementStatus.Idle;
+            currentMovement = isRunning ? MovementStatus.Run : MovementStatus.Walk;
+            currentDirection = MovementDirection.Up;
+            sendMovementChange = true;
         }
-        else if (Input.GetButtonDown("Fire1"))
+        else if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S))
+        {
+            currentMovement = isRunning ? MovementStatus.Run : MovementStatus.Walk;
+            currentDirection = MovementDirection.Down;
+            sendMovementChange = true;
+        }
+        else if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+        {
+            currentMovement = isRunning ? MovementStatus.Run : MovementStatus.Walk;
+            currentDirection = MovementDirection.Left;
+            sendMovementChange = true;
+        }
+        else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+        {
+            currentMovement = isRunning ? MovementStatus.Run : MovementStatus.Walk;
+            currentDirection = MovementDirection.Right;
+            sendMovementChange = true;
+        }
+
+        if (Input.GetButtonDown(InputStrings.Fire3) && currentInput.magnitude != 0)
+        {
+            currentMovement = MovementStatus.Run;
+            sendMovementChange = true;
+        }
+        else if (Input.GetButtonUp(InputStrings.Fire3) && currentInput.magnitude != 0)
         {
             currentMovement = MovementStatus.Walk;
+            sendMovementChange = true;
+        }
+        else if (currentMovement != MovementStatus.Idle && currentInput.magnitude == 0)
+        {
+            currentMovement = MovementStatus.Idle;
+            sendMovementChange = true;
         }
 
-        //SetSpriteAnimation(currentMovement, currentDirection);
+        if (sendMovementChange)
+        {
+            SetSpriteAnimation_Movement(currentMovement, currentDirection);
+            sendMovementChange = false;
+        }
+        #endregion
     }
 
-    private void SetSpriteAnimation(MovementStatus status, MovementDirection direction)
+    private void SetSpriteAnimation_Movement(MovementStatus status, MovementDirection direction)
     {
         if (status == MovementStatus.Die)
             return;
