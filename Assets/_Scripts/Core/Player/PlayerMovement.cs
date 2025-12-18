@@ -15,6 +15,7 @@ public class PlayerMovement : MonoBehaviour
         Run,
         Die
     }
+    private MovementStatus currentMovement;
 
     private enum MovementDirection
     {
@@ -22,6 +23,35 @@ public class PlayerMovement : MonoBehaviour
         Left,
         Right,
         Down
+    }
+    private MovementDirection currentDirection;
+
+    private Vector2 currentInput = Vector2.zero;
+
+    private void Update()
+    {
+        currentInput.x = Input.GetAxisRaw("Horizontal");
+        currentInput.y = Input.GetAxisRaw("Vertical");
+
+        if (currentInput.y > 0)
+            currentDirection = MovementDirection.Up;
+        else if (currentInput.y < 0)
+            currentDirection = MovementDirection.Down;
+        else if (currentInput.x < 0)
+            currentDirection = MovementDirection.Left;
+        else if (currentInput.x > 0)
+            currentDirection = MovementDirection.Right;
+
+        if (currentInput.magnitude == 0)
+        {
+            currentMovement = MovementStatus.Idle;
+        }
+        else if (Input.GetButtonDown("Fire1"))
+        {
+            currentMovement = MovementStatus.Walk;
+        }
+
+        //SetSpriteAnimation(currentMovement, currentDirection);
     }
 
     private void SetSpriteAnimation(MovementStatus status, MovementDirection direction)
