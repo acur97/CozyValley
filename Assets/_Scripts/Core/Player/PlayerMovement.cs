@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
 
     [Header("Configs")]
-    [SerializeField] private float speed = 100;
+    [SerializeField] private float speed = 2;
 
     private MovementStatus currentMovement;
     private MovementDirection currentDirection;
@@ -22,8 +22,26 @@ public class PlayerMovement : MonoBehaviour
 
     private bool sendMovementChange = false;
 
+    private void Start()
+    {
+        PlayerController.OnDeath += DisableMovement;
+    }
+
+    private void OnDestroy()
+    {
+        PlayerController.OnDeath -= DisableMovement;
+    }
+
+    private void DisableMovement()
+    {
+        enabled = false;
+    }
+
     private void Update()
     {
+        if (ConversationSystem.instance.movementDisabled)
+            return;
+
         sendMovementChange = false;
 
         ReadInputs();
@@ -35,7 +53,7 @@ public class PlayerMovement : MonoBehaviour
             sendMovementChange = false;
         }
 
-        rb.linearVelocity = speed * (isRunning ? 2 : 1) * Time.deltaTime * currentInput;
+        rb.linearVelocity = speed * (isRunning ? 2 : 1) * currentInput;
     }
 
     private void ReadInputs()
