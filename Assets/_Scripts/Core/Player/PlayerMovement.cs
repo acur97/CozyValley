@@ -156,11 +156,6 @@ public class PlayerMovement : MonoBehaviour
 
         render.flipX = direction == MovementDirection.Left;
 
-        anim.SetTrigger(AnimationTriggers.TriggerTable[(int)status, direction switch
-        {
-            MovementDirection.Up => 0,
-            MovementDirection.Down => 2,
-            _ => 1
-        }]);
+        anim.SetTrigger(AnimationTriggers.GetPlayerAnimationInt(status, direction));
     }
 }

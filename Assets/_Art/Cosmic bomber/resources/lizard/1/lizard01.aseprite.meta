@@ -2,7 +2,27 @@ fileFormatVersion: 2
 guid: dab12c2aacd801049afc68fa19ef5f21
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: lizard01-die-side
+    second: {fileID: 7400000, guid: a076c8a2af482df4c9221baf6578aa73, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: lizard01-hit-side
+    second: {fileID: 7400000, guid: b1ba659f6590c8f4187648428e1d51a3, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: lizard01-idle-side
+    second: {fileID: 7400000, guid: 70383bb54fd1fed458aa16459d10a95b, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: lizard01-walk-side
+    second: {fileID: 7400000, guid: 51b9ab698825afc4dad1db7debc2c217, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -102,7 +122,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
-  platformSettingsDirtyTick: 639014804974131698
+  platformSettingsDirtyTick: 639017609528782951
   textureAssetName: 
   singleSpriteImportData:
   - name: 

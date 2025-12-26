@@ -1573,6 +1573,8 @@ MonoBehaviour:
   text: {fileID: 2120943459}
   btnExit: {fileID: 130403011}
   btnNext: {fileID: 1252686955}
+  playerEmoteSystem: {fileID: 0}
+  otherEmoteSystem: {fileID: 0}
   movementDisabled: 0
   test: {fileID: 11400000, guid: 66ad89463bd2cce47a45681388b24831, type: 2}
 --- !u!1 &1252686955
@@ -2367,7 +2369,6 @@ MonoBehaviour:
   heartHalf: {fileID: 8103111256753239820, guid: 3c9ada540f183e3449b1ad8bdbbb3248, type: 3}
   heartEmpty: {fileID: -3943773511553052904, guid: 5659da72e20395346a7b1e783b01d0ae, type: 3}
   heartImage: {fileID: 1015862515}
-  currentHealth: 10
 --- !u!1 &2120943457
 GameObject:
   m_ObjectHideFlags: 0

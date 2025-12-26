@@ -6,11 +6,12 @@ using UnityEngine.Events;
 public struct Dialogue
 {
     [TextArea] public string dialogue;
+    //public EmoteType NpcEmote;
     public UnityEvent onStart;
     public UnityEvent onFinish;
 }
 
-[CreateAssetMenu(fileName = "Dialogue", menuName = "ScriptableObjects/Conversation/Dialogue", order = 0)]
+[CreateAssetMenu(fileName = "Dialogue", menuName = "ScriptableObjects/Dialogue", order = 0)]
 public class DialogueScriptable : ScriptableObject
 {
     public bool isRandom = false;

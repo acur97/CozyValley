@@ -12,8 +12,10 @@ public class ConversationSystem : MonoBehaviour
     [SerializeField] private TextMeshProUGUI text;
     [SerializeField] private GameObject btnExit;
     [SerializeField] private GameObject btnNext;
+    [SerializeField] private EmoteSystem playerEmoteSystem;
 
     private DialogueScriptable currentDialogue;
+    public EmoteSystem otherEmoteSystem;
     [HideInInspector] public bool movementDisabled = false;
 
     public DialogueScriptable test;
@@ -178,5 +180,6 @@ public class ConversationSystem : MonoBehaviour
         }
 
         currentDialogue.dialogues[dialogueIndex].onFinish?.Invoke();
+        //EmoteSystem
     }
 }
